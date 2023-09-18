@@ -1,0 +1,490 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    margin: auto;
+    
+}
+.first1 img{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    z-index: -100;
+}
+.first2 img{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    width: 110px;
+    
+}
+
+.first2{
+    display: flex;
+    margin: 10px;
+}
+.first3{
+    width: 40px;
+    position: absolute;
+    top: 50px;
+    right: 80px;
+    font-family: Arial;
+    color: rgba(84, 82, 82, 0.897);
+    
+    
+}
+.first3 img{
+    position: absolute;
+    top: -1px;
+    z-index: -1;
+    width: 80px;
+    right: -15px;
+
+
+
+}
+.first0{
+    display: flex;
+    z-index: 20;
+
+}
+
+.c1{
+    position: absolute;
+    top: 45px;
+    left: 190px;
+    font-size: 22px;
+    transition: all 1s ease;
+    
+
+
+
+}
+.c1:hover{
+    transform:scale(1.01)
+}
+.c2{
+    position: absolute;
+    top: 50px;
+    left: 280px;
+
+}
+.c3{
+    position: absolute;
+    top: 50px;
+    left: 380px;
+
+
+}
+.c4{
+    position: absolute;
+    top: 50px;
+    left: 480px;
+
+
+
+}
+.ccc{
+    font-family: Arial;
+    color: rgba(84, 82, 82, 0.897);
+
+
+
+}
+.midlle1{
+    width: 600px;
+    position: absolute;
+    top: 50px;
+    right: 10px;
+
+}
+.midlle2{
+    width: 220px;
+    position: absolute;
+    top: 100px;
+    right: 220px;
+
+}
+.midlle3{
+    width: 250px;
+    position: absolute;
+    top: 400px;
+    right: 200px;
+
+
+}
+.midlle4{
+    width: 1200px;
+    position: absolute;
+    top: 450px;
+
+
+}
+
+.te1{
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+    left: 150px;
+    color: #474747;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+.te2{
+    position: absolute;
+    font-size: 40px;
+    top: 190px;
+    left: 350px;
+    color: rgb(107, 6, 201);
+
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.te3{
+    position: absolute;
+    font-size: 30px;
+    top: 200px;
+    left: 500px;
+    color: #474747;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+
+}
+.p55{
+    position: absolute;
+    font-size: 20px;
+    top: 250px;
+    left: 150px;
+    color: rgb(106, 64, 145);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+.text1{
+    width: 1000px;
+}
+
+
+
+
+.midlle2{
+    display: flex;
+}
+
+
+.me1{
+    width: 800px;
+    position: absolute ;
+    left: -650px;
+    top: 550px;
+
+    
+}
+
+
+.me2{
+    width: 200px;
+    position: absolute ;
+    left: -800px;
+    top: 600px;
+    
+}
+
+.me3{
+    width: 150px;
+    position: absolute ;
+    left: -400px;
+    top: 700px;
+    
+}
+
+.me4{
+    width: 250px;
+    position: absolute ;
+    left: -800px;
+    top: 900px;
+
+    
+}
+
+.me5{
+    width: 150px;
+    position: absolute ;
+    left: -50px;
+    top: 950px;
+     
+}
+
+.me6{
+    width: 150px;
+    position: absolute ;
+    left: -20px;
+    top: 1300px;
+
+
+    
+}
+
+.me7{
+    width: 350px;
+    position: absolute ;
+    left: -500px;
+    top: 1200px;
+    
+}
+
+.me8{
+    width: 150px;
+    position: absolute ;
+    left: -750px;
+    top: 1280px;
+
+    
+}
+.mee2{
+
+    display: flex;
+}
+.gg1{
+    position: absolute;
+    color: #232323e7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 300px;
+    top: 770px;
+    left: -780px;
+
+}
+.ggg1{
+    position: absolute;
+    left: -40px;
+    top: 30px;
+    color: #474747;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.gg2{
+    position: absolute;
+    color: #232323e7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 300px;
+    top: 830px;
+    left: -400px;
+
+}
+.ggg2{
+    position: absolute;
+    left: -40px;
+    top: 30px;
+    color: #474747;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.gg3{
+    position: absolute;
+    color: #232323e7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 300px;
+    top: 1050px;
+    left: -10px;
+
+}
+.ggg3{
+    position: absolute;
+    left: -100px;
+    top: 30px;
+    color: #474747;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.gg4{
+    position: absolute;
+    color: #232323e7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 300px;
+    top: 1480px;
+    left: -400px;
+
+}
+.ggg4{
+    position: absolute;
+    left: -20px;
+    top: 30px;
+    color: #474747;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.kud{
+    position: absolute;
+    width: 300px;
+    top: 980px;
+    left: -720px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.r1{
+    position: absolute;
+    width: 300px;
+    top: 1400px;
+    left: -100px;
+    color: #474747be;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.r2{
+    position: absolute;
+    width: 300px;
+    top: 1400px;
+    left: -500px;
+    color: #474747be;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.picc1{
+    position: relative;
+    top: 1000px;
+    
+    width: 1720px;
+    left: -100px;
+    
+}
+.picc2{
+    width: 750px;
+    position: absolute ;
+    right:  40px;
+    top: 1815px;
+}
+.bbbb1{
+    position: absolute;
+    top: 2100px;
+    width: 100px;
+    left: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+
+
+
+
+}
+.bbbb2{
+    position: absolute;
+    top: 2100px;
+    width: 100px;
+    left: 220px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    border: none;
+}
+.bottom img{
+    width: 19px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+}
+
+
+
+.icon1{
+    width: 20px;
+    position: absolute;
+    top: 2150px;
+    left: 110px;
+
+
+}
+.icon2{
+    width: 20px;
+    position: absolute;
+    top: 2150px;
+    left: 140px;
+
+}
+.icon3{
+    width: 13px;
+    position: absolute;
+    top: 2150px;
+    left: 170px;
+
+}
+
+.cccc1{
+    position: absolute;
+    top: 2250px;
+}
+.c5{ 
+    position: absolute;
+    left: 110px;
+    top: 10px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.c6{
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.c7{
+    position: absolute;
+    left: 300px;
+    top: 10px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.c8{
+    position: absolute;
+    left: 400px;
+    top: 10px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width:1023px)  {
+
+
+   .midlle img{
+    position: relative;
+    top: 180px;
+   }
+   .mee1{
+    position: relative;
+    left: 280px;
+    
+   }
+
+
+
+
+
+
+}
+
+@media screen and (min-width: 400px) and (max-width:767px)  {
+
+
+
+
+
+
+}
+
+
